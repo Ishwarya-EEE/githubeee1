@@ -1,2 +1,0 @@
-this is a new file 
-this is text08.txt file
